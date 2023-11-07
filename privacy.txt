@@ -1,1 +1,1 @@
-We do not collect data, we show ads, using adsense (Google).
+Aside from using the admob SDK to show mobile ads, we do not collect any data.
