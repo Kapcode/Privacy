@@ -1,6 +1,6 @@
 
 Privacy Policy.
-We Kapcode (Kyle Prospert) only collect data and send it off to admob for advetisinjg purposes using the admob SDK.
+We Kapcode (Kyle Prospert) only collect data and send it off to admob for advertising purposes using the admob SDK.
 This data would include:
 -Ip address (could give users aproximate location)
 -Device ids 
